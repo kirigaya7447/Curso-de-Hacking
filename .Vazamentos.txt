@@ -1,0 +1,6 @@
+Sites:  https://dehashed.com/
+	https://haveibeenpwned.com/
+	https://intelx.io/
+Pesquise pelo nome de usuário ou e-mail do seu alvo, em 45% dos casos já podem
+ser iniciados por vazamentos. (As pessoas não trocam senhas, mesmo após 
+vazamentos)

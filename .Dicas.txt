@@ -1,0 +1,10 @@
+Invasões:
+
+Ao fazer um pentest: 
+1-Verifique todos os possíveis sub-diretórios existentes;
+2-Veja quais deles estão funcionando, se você consegue acessá-los e o
+que tem neles;
+3-Entre e veja se possui falhas nos diretórios;
+4-Pesquise por formas, defeitos, falhas, versões e vulnerabilidades no serviço;
+5-Execute sccaners para ver possíveis falhas;
+6-Se uma falha for encontrada: Explore-a!!!!

@@ -1,0 +1,16 @@
+Falha de Open Redirect:
+
+Open Redirect é quando você é redirecionado de um site para outro, por exemplo:
+Quando não tiver um login feito, ele irá mandar você para a página de login, se
+não tiver acesso a uma pasta de administrador, ele te mandará para a inicial, 
+entre outros.
+
+O melhor jeito de explorar uma falha dessa é depois do usuário efetuar o login,
+pois o usuário ainda estará confiando no site.
+
+Quando um programador usar filtros para impedir que você acesse uma url ou a 
+use para redirecionamento, use a ferramenta "decoder" do burp suite para 
+transformar o caractere ou palavra em outro formato e burlar o site.
+
+Pesquise "open redirect cheat sheet" e clique no link do pentester land, lá você
+irá obter várias possíveis urls que podem quebrar filtros.

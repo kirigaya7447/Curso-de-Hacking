@@ -1,0 +1,76 @@
+Três pilares do hacking e da segurança dos dados:
+
+C		I		D a Preguiça
+o		n		i
+n		t		s
+f		e		p
+i		g		o
+d		r		n
+e		i		i
+n		d		b
+c		a		i
+i		d		l
+a		e		i
+l				d
+i				a
+d				d
+a				e
+d
+e
+________________________________________________________________________________
+Site sobre OSINT: https://blackdotsolutions.com/blog/osint-sources/
+________________________________________________________________________________
+Em Bug Bounty "The market doesn't care!":
+	Ninguém está nem aí para você, seus dados, suas escolhas, seu sexo,
+	sua idade, seu nível de escolaridade, de socialização, número de
+	amigos. Dane-se! Achou a falha, dá o número da conta-> dorme com 
+	R$0,00-> acorda com R$50,00 ou mais.
+________________________________________________________________________________
+Pentest:
+	Teste de Penetração, teste de invasão, que é literalmente uma 
+	tentativa de invadir uma aplicação web, um software, uma máquina
+	ou um servidor. No pentest porém você indica como fortificar
+	o sistema ou aparelho para que não aconteça de forma inesperada.
+________________________________________________________________________________
+DOS(Denial of Service):
+	Um ataque a um servidor ou computador com intuito de sobrecarregá-lo
+	e tornar indisponível temporariamente seu serviço. Isso é feito
+	fazendo muitos pedidos de uma vez ao alvo.
+DDOS(Distributed Denial of Service):
+	No DDOS acontece a mesma coisa que no DOS, porém, agora ao invés de 
+	uma única máquina realizar o ataque, ela(computador mestre) escraviza
+	outros computadores(zumbis) e faz todos usarem o mesmo serviço ao mesmo
+	tempo. Por servidores e sites web terem um número limitado de acessos 
+	simultâneos eles sobrecarregam.
+________________________________________________________________________________
+Hackear é fácil, mas não é simples e nem rápido, necessita de paciência, 
+ser rápido demanda tempo e treino.
+________________________________________________________________________________
+"Ameaça, vulnerabilidade e ataque, estes três são os fundamentos de hacking!"
+________________________________________________________________________________
+Reúna o máximo de informações, veja portas, veja os funcionários, veja os 
+clientes, porém cuidado ao se arriscar sendo um! Conheça o seu alvo, pesquise
+por ele, pense nele e o entenda, a partir daí você vai atrás da invasão.
+
+Etapas:
+1- Conheça o alvo(Recon) 70% do hacking. É um site? Em javaScript ou php? 
+Um aplicativo? Um software? Windows, Mac, Linux ? Apple ou android? Nome dos 
+familiares do alvo para possíveis senhas, sub-domínios, ips? Wi-fi?;
+
+2- Analisar o alvo. Obtenha informações técnicas, físicas, versões, defeitos, 
+atualizações, se ja existe alguém que ensina como invadir e exlorar as falhas.
+
+3- Explorar o alvo. Quem ele é? O que ele faz? É o dono? Tem insta? Face? 
+Telegram? Família? Conheça-o, pesquise até parecer que você conhece a pessoa
+melhor que a família dela.
+________________________________________________________________________________
+Sempre verifique suas urls!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+google.com gogle.com gooogle.com goog1e.com googIe.com g00gle.com
+facebook.com Facebook.com facebok.com faceboc.com 
+whatsapp.web watsapp.web whatsap.web whattsapp.web
+________________________________________________________________________________
+Treine seu inglês técnico! Crie um tesão por códigos, teste tudo, pense em tudo,
+brinque com o Kali e se divirta!
+________________________________________________________________________________
+					Conhecimento é poder, dados são armas!
+								-Desconhecido

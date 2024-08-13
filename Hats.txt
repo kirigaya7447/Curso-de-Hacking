@@ -1,0 +1,14 @@
+Chapéus:
+Você usará qual?
+
+White Hat? Irá ser o hacker ético? O herói que irá buscar e consertar as falhas
+e ser reconhecido como bom, receber dinheiro honestamente?
+
+Black Hat? O clássico vilão anônimo, com a máscara de V? Que irá invadir 
+aplicações atrás de informações secretas e valiosas para vasar, ameaçar, 
+vender ou chantagear? Ou simplesmente derrubar as aplicações?
+
+Ou então...
+
+Grey Hat? O meio-termo? Faz ajuda, segurança e fiscalização. Porém usa uns 
+métodos que não são muito indicados e muito "seguros" ou "éticos"?

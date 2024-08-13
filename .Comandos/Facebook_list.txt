@@ -1,0 +1,11 @@
+ALL: https://www.facebook.com/search/top/?q=busca
+POSTS: https://www.facebook.com/search/posts/?q=busca
+PEOPLE:https://www.facebook.com/search/people/?q=busca
+PHOTOS:https://www.facebook.com/search/photos/?q=busca
+VIDEOS:https://www.facebook.com/search/videos/?q=busca
+MARKETPLACE:https://www.facebook.com/search/marketplace/?q=busca
+PAGES:https://www.facebook.com/search/pages/?q=busca
+GROUPS:https://www.facebook.com/search/groups/?q=busca
+APPS:https://www.facebook.com/search/apps/?q=busca
+EVENTS:https://www.facebook.com/search/events/?q=busca
+LINKS:https://www.facebook.com/search/links/?q=busca

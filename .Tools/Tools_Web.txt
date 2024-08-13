@@ -1,0 +1,64 @@
+OSINT:
+Sites de buscas avançadas:
+advangle.com
+millionshort.com
+bvsg.org
+cachedview.com
+cachedpages.com
+wigle.net
+web.archive.org
+shodan.io
+bellingcat.com
+Encontrar pessoas:
+spokeo.com
+Telegram
+tools.epieos.com/email.php
+whatsmyname.app
+www.namecheckr.com
+Twitter:
+web.archive.org
+tweetbeaver.com/getid.php
+tweetbeaver.com/getscreenname.php
+trendsmap.com
+tinfoleak.com
+Instagram:
+searchmy.bio
+instafollowers.co
+Snapchat:
+map.snapchat.com
+Site de manipulação de objetos em fotos:
+yandex.com
+Lens
+29a.ch
+Mapas:
+livingatlas.arcgis.com
+Google earth 
+insecam.org
+suncalc.org
+Uniformes:
+camopedia.org
+Vazamentos:
+dehashed.com
+archive.org/download/SnapChat.7z
+archive.org/download/LIUsers.7z
+haveibeenpwned.com
+intelx.io
+russianmarket.io
+Tráfego:
+marinetraffic.com
+flightradar24.com
+Famílias:
+familysearch.org
+Fishings reportados no mundo inteiro:
+phishstats.info
+Domínios:
+dnsdumpster.com
+Exploits:
+exploit-db.com
+Pentest:
+pentester.land
+whatsmyip.org
+Deep web:
+ahmia.fi
+tor.taxi
+phobosSearch.com

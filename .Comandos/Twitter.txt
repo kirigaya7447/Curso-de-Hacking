@@ -1,0 +1,35 @@
+Atalhos de Navegação:
+
+	J — ir para o próximo Tweet;
+	K — voltar ao Tweet anterior;
+	Barra de espaço — rolar a página para baixo;
+	. (ponto final) — carregar novos Tweets;
+	G + H — ir para a Página Inicial;
+	G + E — ir para guia Explorar;
+	G + N — ir para as Notificações;
+	G + R — ir para as menções;
+	G + P — acessar seu Perfil;
+	G + L — ir para suas Curtidas;
+	G + I — ir para suas Listas;
+	G + M — acessar suas mensagens diretas;
+	G + S — ir para as Configurações;
+	G + U — ir para um arroba específico.
+
+Atalhos de Ações:
+
+	N — criar novo Tweet;
+	CRTL (ou Comand) + Enter — enviar Tweet;
+	M — nova Mensagem Direta;
+	/ — ir para o campo de busca;
+	L — curtir Tweet;
+	R — responder Tweet;
+	T — retweetar;
+	S — compartilhar Tweet;
+	B — salvar Tweet;
+	U — silenciar conta;
+	X — bloquear conta;
+	Enter — abrir os detalhes do Tweet;
+	O — expandir foto;
+
+Na plataforma se estiver em dúvidas tecle: "?" que um painel de ajuda 
+será exibido. 

@@ -1,0 +1,33 @@
+Em redes, devemos fazer a segurança, para verificar a segurança podemos 
+separá-la em três:
+
+Red Team: A equipe Vermelha vai servir como um hacker, um invasor, eles serão 
+os antagonistas e irão invadir a aplicação.
+
+Blue Team: A equipe azul irá fazer a defesa da aplicação, a segurança na 
+primeira vez e a automatização depois do suposto ataque.
+ 
+Purple Team: O meio, a equipe roxa ir4á fazer os dois ao mesmo tempo, enquanto 
+ela estiver buscando as falhas, já também estará as consertando e otimizando.
+
+Existem mais equipes e todas elas podem ser formadas pelo mesmo grupo de 
+pessoas ou pela mesma pessoa!!!
+________________________________________________________________________________
+NOC(Network Operations Center): O centro, o local onde estão todos os 
+equipamentos e os meios para gerenciar a segurança em rede e manter os serviços
+ativos. Ele apresenta relatórios sobre os problemas e meios de correção.
+
+SOC(Security Operations Center): Gerenciamento de segurança na rede. Seus 
+analistas estão e devem ser sempre alertas, configurando e consertando softwares
+para manter a segurança na rede.Devem ter conhecimentos nos softwares e nas 
+ferramentas que podem ser usadas. A equipe faz a verificação, monta um plano e 
+o executa o mais rápido para manter tudo.
+
+Resumo: NOC gera o relatório e administra. SOC pega, lê o relatório, monta o 
+plano e o executa.
+________________________________________________________________________________
+				Qualquer um pode aprender a jogar xadrez, porém
+				somente alguns vão aprender as regras e os 
+				atalhos.
+								Diego Andretta
+

@@ -1,0 +1,34 @@
+Algumas ferramentas do Kali Linux e o que elas fazem:
+
+1-WhatWeb: Mostra informações do alvo(sites);
+
+2-Wpscan: Lê uma url e informa os softwares que estão sendo usados se ela usar
+o wordPress;
+ 
+3-Dirb: Testa possíveis sub-diretórios do alvo(sites);
+
+4-Setoolkit: Ferramentas de "social-enginner", inclusive clonagem de sites;
+
+5-Exiftool: Lê, mostra, manipula e apresenta dados escondidos ou somente os 
+arquivos puros(imagens, pdfs, áudios, vídeos,etc...);
+
+6-Nmap: Mostra suas portas abertas ou do seu alvo;
+
+7-Burp Suite: Um software java feito para testes em web, ele simula um browser
+para abrir os sites, bloqueia envios de formulários e apresenta métodos POST;
+
+8-TheHarvester: Lista todos os endereços e e-mails derivados de um domínio;
+
+9-Assetfinder: (Ferramenta em Go) Encontra e vasculha a internet atrás de 
+diretórios e sub-diretórios de um alvo;
+
+10-Httprobe: (Ferramenta em Go) Verifica servidores http e https em 
+funcionamento;
+
+11-Hydra: Faz ataques de força bruta para tentar realizar uma quebra de senha
+no alvo.
+
+12-Lynis: Realiza uma verificação em sistemas operacionais Linux e apresenta 
+possíveis falhas neles.
+ 
+Para informações adicionais, acesse: https://www.kali.org/tools/

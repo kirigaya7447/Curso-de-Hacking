@@ -1,0 +1,7 @@
+Site: site:poa.ava.ifsuldeminas.com
+Texto no título: intitle:"Login"
+Texto nos links: inurl:instag
+Tipo de arquivos: filetype:pdf | ext:docx
+Texto em algum local das páginas: intext:"Quero ir embora" | intext:.txt
+Local/país: country:br country:eua
+Os comandos podem incluir o operador "OR".

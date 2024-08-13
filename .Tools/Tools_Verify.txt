@@ -1,0 +1,11 @@
+Link: https://itsfoss.com/best-kali-linux-tools/
+
+1- Lynis Foi
+2- Aircrack-Ng
+3- Wireshark
+4- Metasploit-Framework
+5- Skipfish
+6- Beef-Xss
+7- Sqlmap
+8- John The Ripper
+9- Nikto
